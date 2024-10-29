@@ -1,3 +1,25 @@
+# Project Title
+Dices
+
+## Description
+
+Simple programm that simulates the trow of two dices in C++
+
+## Getting Started
+
+### Dependencies
+
+* C++
+
+### Installing
+
+* No need
+
+### Executing program
+
+* Just run it in any C++ compilor
+
+```
 // dice.cpp
 // Edem Abdullaiev
 // This program simulates the random roll of two dice
@@ -33,3 +55,32 @@ int main()
 	
    return 0;
 }
+
+
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Edem Abdullaiev
+[Servinovich](https://www.instagram.com/servinovich/)
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [EDEM ABDULLAIEV] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [servinovich](https://github.com/servinovich/dices)
